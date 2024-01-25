@@ -19,8 +19,5 @@ about:
     - icon: envelope
       text: Email
       href: mailto:foyet.julius@ubuea.cm
-    - icon: orcid
-      text: Email
-      href: mailto:foyet.julius@ubuea.cm
 ---
 
