@@ -1,5 +1,7 @@
 ---
-title: "juluis-foyet.github.io"
+title: "Juluis Foyet"
+about:
+  template: jolla
 ---
 
 This is a Quarto website.
