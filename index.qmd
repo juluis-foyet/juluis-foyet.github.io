@@ -1,9 +1,23 @@
 ---
 title: "Juluis Foyet"
+image: PictJuluis.png
 about:
   template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/juluis-foyet-11632a212
+      target: _blank
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/foyet_juluis
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/juluis-foyet
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:foyet.julius@ubuea.cm
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
