@@ -1,6 +1,6 @@
 ---
 title: "Juluis Foyet"
-image: PictJuluis.png
+image: images/PictJuluis.png
 about:
   template: jolla
   links:
