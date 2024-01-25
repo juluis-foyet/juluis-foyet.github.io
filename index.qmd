@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/juluis-foyet-11632a212
+      href: https://www.linkedin.com/in/juluis-foyet-11632a212/
       target: _blank
     - icon: twitter
       text: Twitter
