@@ -23,7 +23,7 @@ for(k in years){
   
   pub.in <- pub.data |> 
     filter(year == k) |> 
-    arrange(type_of_publication)
+    arrange(-SN)
   
   for(type in unique(pub.in$type_of_publication)){
     cat(paste0(h4(type)))
