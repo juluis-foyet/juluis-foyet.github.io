@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Juluis Foyet"
+  favicon: images/logo_Juluis.png
+  description: "This is the personal website of Juluis Foyet"
+  back-to-top-navigation: true
+  page-footer:
+    right: "&copy;2024 **Juluis Foyet**"
+  sidebar:
+    toc: true
+  navbar:
+    toggle-position: right
+    logo: images/logo_Juluis.png
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Publications
+        href: pubs.qmd
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+

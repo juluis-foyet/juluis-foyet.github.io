@@ -1,0 +1,40 @@
+---
+title: ""
+image: images/Juluis.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/juluis-foyet-11632a212/
+      target: _blank
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/foyet_juluis
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/juluis-foyet
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:foyet.julius@ubuea.cm
+    - icon: kaggle
+      text: Kaggle
+      href: https://www.kaggle.com/juluisfoyet
+---
+# Intro
+
+
+
+Hello! I'm Juluis Foyet, a passionate **Data Analyst** from Cameroon, holding a Master of Science in Parasitology. My interests extend to the fascinating realms of data analysis, geospatial analysis, and bioinformatics, all of which I've enthusiastically pursued through various online courses. I also have great interest in molecular biology, entomology, and Neglected Tropical Diseases (NTDs), reflecting my diverse and holistic approach to the life sciences. What characterizes me is my unwavering commitment to self-learning; every day is an opportunity for me to enhance my skills and stay at the forefront of advancements in my areas of interest. With a foundation in parasitology and a versatile skill set, I'm excited to contribute my expertise to projects that blend biology with the power of computational sciences.
+
+# Education
+
+**Google Career Certificate** \| Coursera, Online<br>
+*Google Data Analytics Professional Certificate* \| April 2024
+\
+\
+**University of Dschang** \| Dschang, Cameroon<br>
+*M.Sc.* in Parasitology \| 2021<br>
+*B.Sc.* in Zoology \| 2019
