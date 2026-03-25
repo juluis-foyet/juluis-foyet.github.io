@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jfoyet.quarto.pub/juluis-foyet/resume.html</loc>
-    <lastmod>2026-03-24T10:21:19.829Z</lastmod>
+    <lastmod>2026-03-25T09:11:52.544Z</lastmod>
   </url>
   <url>
-    <loc>https://jfoyet.quarto.pub/juluis-foyet/projects.html</loc>
-    <lastmod>2025-04-05T07:09:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jfoyet.quarto.pub/juluis-foyet/about.html</loc>
-    <lastmod>2024-05-01T09:44:10.000Z</lastmod>
+    <loc>https://jfoyet.quarto.pub/juluis-foyet/projects/posts/Covid_Example/index.html</loc>
+    <lastmod>2026-03-25T09:28:23.858Z</lastmod>
   </url>
   <url>
     <loc>https://jfoyet.quarto.pub/juluis-foyet/index.html</loc>
-    <lastmod>2026-03-24T10:16:42.607Z</lastmod>
+    <lastmod>2026-03-25T09:11:52.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jfoyet.quarto.pub/juluis-foyet/about.html</loc>
+    <lastmod>2026-03-25T09:11:52.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jfoyet.quarto.pub/juluis-foyet/projects/index.html</loc>
+    <lastmod>2026-03-25T09:33:44.557Z</lastmod>
   </url>
   <url>
     <loc>https://jfoyet.quarto.pub/juluis-foyet/pubs.html</loc>
-    <lastmod>2025-04-05T07:07:08.000Z</lastmod>
+    <lastmod>2026-03-25T09:11:52.544Z</lastmod>
   </url>
 </urlset>

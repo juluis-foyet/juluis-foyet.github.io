@@ -28,5 +28,11 @@
   },
   "projects/projects.qmd": {
     "projects.html": "28071dbc"
+  },
+  "projects/index.qmd": {
+    "index.html": "94d974e5"
+  },
+  "projects/posts/Covid_Example/index.qmd": {
+    "index.html": "2636232e"
   }
 }

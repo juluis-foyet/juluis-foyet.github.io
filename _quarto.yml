@@ -22,7 +22,7 @@ website:
       - text: Resume
         href: resume.qmd
       - text: DS Projects
-        href: projects.qmd
+        href: projects/index.qmd
 
 format:
   html:
