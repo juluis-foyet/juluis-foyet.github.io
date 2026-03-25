@@ -8,7 +8,7 @@ website:
   description: "This is the personal website of Juluis Foyet"
   back-to-top-navigation: true
   page-footer:
-    right: "&copy;2024 **Juluis Foyet**"
+    right: "&copy;2026 **Juluis Foyet**"
   sidebar:
     toc: true
   navbar:
@@ -19,11 +19,14 @@ website:
         text: Home
       - text: Publications
         href: pubs.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: DS Projects
+        href: projects.qmd
 
 format:
   html:
-    theme: cyborg
-    css: styles.css
+    theme: [cyborg, my_style.scss]
     toc: true
 
 

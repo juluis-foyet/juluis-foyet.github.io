@@ -1,0 +1,15 @@
+---
+title: "Resume"
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+```{=html}
+<iframe 
+  width="800" 
+  height="800" 
+  src="Juluis_RESUME_Dec2025.pdf">
+</iframe>
+```

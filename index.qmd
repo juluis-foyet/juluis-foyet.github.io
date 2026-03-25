@@ -31,6 +31,13 @@ Hello! I'm Juluis Foyet, a passionate **Data Analyst** from Cameroon, holding a 
 
 # Education
 
+**Data Science** \| ALX Africa, Online (January 2025 - March 2026)<br>
+*Professional Foundations* \| April 2025<br>
+*Data Analytics* \| August 2025<br>
+*Python* \| November 2025<br>
+*Machine Learning* \| March 2026
+\
+\
 **Google Career Certificate** \| Coursera, Online<br>
 *Google Data Analytics Professional Certificate* \| April 2024
 \

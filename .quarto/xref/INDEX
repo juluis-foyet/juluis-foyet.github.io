@@ -7,5 +7,26 @@
   },
   "pubs.qmd": {
     "pubs.html": "1f27eaf4"
+  },
+  "port.qmd": {
+    "port.html": "4fd081fe"
+  },
+  "projects.qmd": {
+    "projects.html": "c63b8632"
+  },
+  "resume.qmd": {
+    "resume.html": "f3bbf6bf"
+  },
+  "projects/Covid_Example_Project/Covid_Project_Juluis.qmd": {
+    "Covid_Project_Juluis.md": "b2595e4d"
+  },
+  "projects/Covid_Example_Project/Covid_Project_Juluis.md": {
+    "Covid_Project_Juluis.html": "73fdde35"
+  },
+  "projects/Covid_Example_Project/index.qmd": {
+    "index.md": "6b78d546"
+  },
+  "projects/projects.qmd": {
+    "projects.html": "28071dbc"
   }
 }

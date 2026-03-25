@@ -16,7 +16,6 @@ library(readr)
 pub.data <- read_csv("academic_dataset.csv") |> 
   filter(status == "Published")
 
-
 years <- unique(pub.data$year) |> sort(decreasing = T)
 for(k in years){
   cat(paste0(h1(k)))
