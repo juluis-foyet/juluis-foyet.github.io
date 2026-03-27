@@ -170,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 Article
 </h4>
 <div>
-<p>Djoufounna, J., Djiappi-Tchamen, B., Mayia, M.P.A., <strong>Foyet, J.V.</strong>, Ndjeunia-Mbiakop, P., Joko Tamoufe, S., Nkahe, D.L., Awono-Ambene, P., Antonio-Nkondjio, C., Tchuinkam, T., and Bamou, R. (2026) <b>Malaria transmission dynamics in Makenene, a forest-savannah transition zone, in Centre-Cameroon</b> <i>IJID One Health</i> <a href="https://10.1016/j.ijidoh.2026.100113">https://10.1016/j.ijidoh.2026.100113</a></p>
+<p>Djoufounna, J., Djiappi-Tchamen, B., Mayia, M.P.A., <strong>Foyet, J.V.</strong>, Ndjeunia-Mbiakop, P., Joko Tamoufe, S., Nkahe, D.L., Awono-Ambene, P., Antonio-Nkondjio, C., Tchuinkam, T., and Bamou, R. (2026) <b>Malaria transmission dynamics in Makenene, a forest-savannah transition zone, in Centre-Cameroon</b> <i>IJID One Health</i> <a href="https://doi.org/10.1016/j.ijidoh.2026.100113">https://doi.org/10.1016/j.ijidoh.2026.100113</a></p>
 </div>
 <br><br>
 <h1>
@@ -307,7 +307,7 @@ Article
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jfoyet\.quarto\.pub\/juluis-foyet");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
